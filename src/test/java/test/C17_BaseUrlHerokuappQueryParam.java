@@ -75,7 +75,7 @@ public class C17_BaseUrlHerokuappQueryParam extends HerokuappBaseUrl {
 
         // 1 - URL hazirla
 
-        specHerokuapp.pathParam("pp1","booking").queryParam("firstname","Eric");
+        specHerokuapp.pathParam("pp1","booking").queryParam("firstname","Jim");
 
         // 2 - Expected Data hazirla
 
